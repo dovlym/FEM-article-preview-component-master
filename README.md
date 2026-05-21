@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-article-preview-component-master)
+[My Solution](https://dovlym.github.io/FEM-article-preview-component-master)
 
 
 ## My process
